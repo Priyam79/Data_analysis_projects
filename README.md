@@ -71,9 +71,52 @@ Total numbers of trips on Day 6 which are less than 10 hours : 76451 (around 57%
 
 
 Key Insights:
-1. More than 75% users are male, female user accounting only around 23%.
-2. The Grand Total of Trip Id in this table will differ compared to other because of missing data. 
+1. More than 75% users are male, female user accounting only around 23% .
+2. The Grand Total of Trip Id in this table will differ compared to other because of missing data . 
 
+
+### Number of Trips vs Age:
+<img width="359" height="414" alt="image" src="https://github.com/user-attachments/assets/e3c56a57-f560-4dfd-b982-2081175c1b7d" />
+<img width="845" height="433" alt="image" src="https://github.com/user-attachments/assets/b4d79d3d-20df-48aa-90cb-dfb1e91f449a" />
+
+
+#### Key Insights:
+1. Age groups 30-40 and 20-30 has highest share of users around 36% and 33% respectively .
+2. They are followed age groups 40-50, 50-60, 60-70 around 16%, 10% and 2% respectively . Rest of them are of negligible values.
+3. Basically, young working adults are mostly the users .
+4. Just like previous table this one also have missing data so the Grand Total is different .
+
+### Finding the Peak usage hour:
+<img width="543" height="536" alt="image" src="https://github.com/user-attachments/assets/273a8fc3-01f7-4c0f-81eb-e147a149c0f5" />  <img width="838" height="553" alt="image" src="https://github.com/user-attachments/assets/c9290b0d-07fa-4d07-b302-c4bb4eb0eb9c" />
+
+
+#### Key Insights:
+1. The table filters the data according to individual trips at different starttime and only shows top 15.
+2. According to table peak usage time around 17:00.
+3. Peak time is around 5pm evening meaning most user finish work or school and use bikes to commute home or some other destination. It’s the evening rush hour.
+
+### Top 20 stations users have taken ride from:
+<img width="1674" height="813" alt="image" src="https://github.com/user-attachments/assets/1741153d-4cc9-4b17-8ad7-24bcef66a6d4" />
+
+### Top 20 stations users used as destination:
+<img width="1672" height="797" alt="image" src="https://github.com/user-attachments/assets/1858b18c-21eb-47a1-8ff8-6e7379a4026f" />
+
+### Conclusion:
+** 1. How do annual members and casual riders use Cyclistic bikes  differently? **
+* Annual members or Subscriber use bikes for commuting to work or school and back home or other practical purpose like running errands.
+* Casual members or Customer who use it for leisure rides or exploration. Thus, casual members are likely to spend more time on bikes compared to annual members as supported by data.
+** 2. Why would casual riders buy Cyclistic annual memberships? **
+* If Cyclistic can encourage short, frequent rides (e.g., commutes), Customers may find value in an annual membership.
+* Highlighting the cost-effectiveness of membership for frequent usage compared to paying per ride can help.
+* Promote membership plans emphasizing the convenience of bikes during peak commuting hours.
+* Add more bikes or docking stations in areas that see high demand during these times.
+* Cyclistic’s key demographic seems to be younger adults (20-39 years old), likely using bikes for commuting and recreational purposes.
+* Explore strategies to make biking more appealing and accessible to older users.
+** 3. How can Cyclistic use digital media to influence casual riders to become members? **
+* Targeted Campaigns: Use data to show how shorter, frequent rides can save money with a membership.
+* Emphasize Benefits: Highlight perks like priority access, flat fees, and convenience for Subscribers.
+* Gender Disparity: Create campaigns that highlight safety and convenience to attract more female riders.
+** NOTE: ** Need more information about financial structure of Cyclist’s subscription plan for more detailed insights.
 
 
 
