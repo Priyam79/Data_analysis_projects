@@ -32,10 +32,11 @@ RETURN
 ### Average ride_length vs Day_of_week summarize
 <img width="1226" height="309" alt="image" src="https://github.com/user-attachments/assets/d9244e82-8107-4a6f-817d-c6ec44b15e3a" />
 <img width="415" height="216" alt="image" src="https://github.com/user-attachments/assets/f39e566a-a060-4bc6-a64f-e96270cd8406" />
+
 The above table is a summarized version of average ride_length which is the average duration of a ride from start to finish, on different day of week that is from Monday to Sunday where Monday is represented as 1, Tuesday as 2 and so on ending with Sunday as 7. 
 
-Key Insights:
-Mode of day_of_week is 6 meaning most people using service on Saturday.
-Average ride length of Customer is much higher than Subscriber. Probable reason:  Customer use biking service as leisure as opposed to Subscriber who use it for more practical purposes.
-Average ride length for Customer is significantly lower compared to Subscriber on Day 6 which differs from the general pattern we see on other day
+####Key Insights:
+1. Mode of day_of_week is 6 meaning most people using service on Saturday.
+2. Average ride length of Customer is much higher than Subscriber. Probable reason:  Customer use biking service as leisure as opposed to Subscriber who use it for more practical purposes.
+3. Average ride length for Customer is significantly lower compared to Subscriber on Day 6 which differs from the general pattern we see on other day
 
