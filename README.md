@@ -105,6 +105,8 @@ Key Insights:
 **1. How do annual members and casual riders use Cyclistic bikes  differently?**
 * Annual members or Subscriber use bikes for commuting to work or school and back home or other practical purpose like running errands.
 * Casual members or Customer who use it for leisure rides or exploration. Thus, casual members are likely to spend more time on bikes compared to annual members as supported by data.
+
+  
 **2. Why would casual riders buy Cyclistic annual memberships?**
 * If Cyclistic can encourage short, frequent rides (e.g., commutes), Customers may find value in an annual membership.
 * Highlighting the cost-effectiveness of membership for frequent usage compared to paying per ride can help.
@@ -112,10 +114,14 @@ Key Insights:
 * Add more bikes or docking stations in areas that see high demand during these times.
 * Cyclistic’s key demographic seems to be younger adults (20-39 years old), likely using bikes for commuting and recreational purposes.
 * Explore strategies to make biking more appealing and accessible to older users.
+
+  
 **3. How can Cyclistic use digital media to influence casual riders to become members?**
 * Targeted Campaigns: Use data to show how shorter, frequent rides can save money with a membership.
 * Emphasize Benefits: Highlight perks like priority access, flat fees, and convenience for Subscribers.
 * Gender Disparity: Create campaigns that highlight safety and convenience to attract more female riders.
+
+  
 **NOTE:** Need more information about financial structure of Cyclist’s subscription plan for more detailed insights.
 
 
