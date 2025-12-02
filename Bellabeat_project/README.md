@@ -77,6 +77,65 @@ Fig- 4
 * More data needed to support this insight.
 
 
+### Average intensity, calories and Totalsteps throughout the day:
+<img width="607" height="366" alt="image" src="https://github.com/user-attachments/assets/2eaa6822-4a39-4380-ad9a-87225eb9e213" />
 
 
+Fig- 1
+
+
+<img width="581" height="366" alt="image" src="https://github.com/user-attachments/assets/c782ad04-9f03-452d-a21a-f050835dfcc8" />
+
+
+Fig- 2
+
+
+<img width="579" height="366" alt="image" src="https://github.com/user-attachments/assets/84b850e4-0ddc-488a-851d-ebb7818d8d8b" />
+
+
+Fig- 3
+
+
+* Fig-1, Fig-2 and Fig-3 shows relation between daily time and calories , total steps and total intensity respectively.
+* Avg steps increases from 7:00 to 12:00 and again from 16:00 to 19:00 showing that people are most active during this time.
+* Calories and average intensity also follows same trends as total steps.
+
+
+### Usertype by Sleep, minutes and Totalsteps:
+<img width="566" height="451" alt="image" src="https://github.com/user-attachments/assets/b2995eb5-d826-475f-bc3f-54dbc4177d9c" />
+
+
+<img width="589" height="451" alt="image" src="https://github.com/user-attachments/assets/2f9e9bd6-2679-48c8-b1d7-75436d0e5fc6" />
+
+  
+<img width="602" height="451" alt="image" src="https://github.com/user-attachments/assets/c6359487-161f-42a7-8253-9da42467fb4a" />
+
+
+* 58% of user have poor sleep(less than 6 hours) while only 33% have good sleep(between 6-8 hours).
+* 36%(12 users) of user are very active, while 24%(8 users) are lightly active and 21%(7 users) are fairly active. Only 18%(6 users) are sedentary.  
+* 21%(7 users) have more than 10000 steps (very active), 27%(9 users) have steps between 7500 and 10000 (fairly active), 27%(9 users) have steps between 5000 and  7500 (lightly active) and 24%(8 users) have less than 5000 steps (sedentary). 
+
+
+### Sleep pattern for different usertype:
+<img width="873" height="544" alt="image" src="https://github.com/user-attachments/assets/25dbafc3-7437-4e0c-a1fb-8c2c9d40d6a5" />
+
+
+* Through the visuals it is clear that sedentary group has the worst sleepers and as activity increases, we see better sleep pattern. 
+* Over sleepers decreases as activity level increases as more active users will spend less amount of time staying in bed.
+* More data required as it seems very active user have more poor sleepers than normal sleepers but that could be because of missing data and smaller sample dataset.
+
+
+### Conclusion
+
+**1. Daily notification on steps and posts on app:**
+The data shows the positive correlation between calories and steps. Thus, we can encourage users to take the recommended 7500 steps everyday by using notification when they are not meeting daily quota.
+
+**2. Notification and sleep techniques:**
+Based on result most users are not getting the recommended hours of sleep i.e. 6-8 hours . Encourage users to get proper sleep by using notification and post explaining why good sleep is required.
+
+**3. Daily use of smart device:**
+More than 50% users are either active or fairly active on the smart users. Thus, the device need to be more durable, water resistant and light. For other users we need to promote by they should use it more by giving more features to make it more usable in daily life.
+ 
+**4. Reward system:**
+Most users might not get motivated by just notification so maybe there should be reward system to encourage them should they consistently reach their daily goal.
 
