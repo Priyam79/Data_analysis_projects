@@ -17,21 +17,21 @@ The aim of this case study is to analyze data from smart devices manufactured by
 4. New Column is created to check activity level of different users.
 
 ### Weekdays:
-``` days_of_week = WEEKDAY('dailyActivity_merged'[ActivityDate],2) ```
+    ``` days_of_week = WEEKDAY('dailyActivity_merged'[ActivityDate],2) ```
 ### UserTypes_byTotalSteps:
-``` UserType_byTotalSteps = SWITCH(
+    ``` UserType_byTotalSteps = SWITCH(
     TRUE(),
     'dailyActivity_merged'[TotalSteps] >= 10000, "Very Active",
     'dailyActivity_merged'[TotalSteps] >= 7500, "Fairly Active", 
     'dailyActivity_merged'[TotalSteps] >= 5000, "Lightly Active",
     "Sedentary"
-) ``` 
+    ) ``` 
 ### UserType_bySleep:
-``` UserType_bySleep = SWITCH(
+    ``` UserType_bySleep = SWITCH(
     TRUE(),
     'sleepDay_merged'[TotalHourAsleep]<= 6, "Poor Sleep",
     'sleepDay_merged'[TotalHourAsleep]>= 8, "Over Sleep",
      "Good Sleep") ```
 ### Hour:
-``` Hour = TIME(HOUR('hourlyCalories_merged'[ActivityHour]), MINUTE('hourlyCalories_merged'[Calories]), SECOND('hourlyCalories_merged'[ActivityHour])) ```
+    ``` Hour = TIME(HOUR('hourlyCalories_merged'[ActivityHour]), MINUTE('hourlyCalories_merged'[Calories]), SECOND('hourlyCalories_merged'[ActivityHour])) ```
 
