@@ -35,3 +35,18 @@ The aim of this case study is to analyze data from smart devices manufactured by
 ### Hour:
     ``` Hour = TIME(HOUR('hourlyCalories_merged'[ActivityHour]), MINUTE('hourlyCalories_merged'[Calories]), SECOND('hourlyCalories_merged'[ActivityHour])) ```
 
+## Analysis of Data
+<img width="848" height="458" alt="image" src="https://github.com/user-attachments/assets/3505fa75-98d6-44c4-a08b-9dbea18a6cdb" />
+
+
+* There is positive correlation between calories burned and Total number of steps.
+* This is expected as number of steps increased, the distance covered increases as well also and thus more calories are burned.
+* User need to be more active if they want to decrease their calories.
+
+
+
+
+
+
+
+
