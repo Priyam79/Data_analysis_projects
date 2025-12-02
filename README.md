@@ -125,7 +125,16 @@ Key Insights:
 **NOTE:** Need more information about financial structure of Cyclist’s subscription plan for more detailed insights.
 
 
+## Dashboard
+<img width="1875" height="538" alt="Screenshot 2025-12-02 140742" src="https://github.com/user-attachments/assets/e9645e25-1624-44d0-8f65-613499ba172a" />
 
+<img width="1859" height="543" alt="Screenshot 2025-12-02 140801" src="https://github.com/user-attachments/assets/1f62ae2b-82c8-4923-982b-8bc0bcebf051" />
+
+<img width="655" height="544" alt="Screenshot 2025-12-02 140817" src="https://github.com/user-attachments/assets/63d2fc39-b280-490e-b1ff-53906e90d1de" />
+
+<img width="668" height="495" alt="Screenshot 2025-12-02 140839" src="https://github.com/user-attachments/assets/589c8ec6-4158-447c-aeb1-e04f3a0dcefb" />
+
+<img width="635" height="822" alt="Screenshot 2025-12-02 140853" src="https://github.com/user-attachments/assets/1604d50d-c21b-4353-be91-791f46e8a71d" />
 
 
 
