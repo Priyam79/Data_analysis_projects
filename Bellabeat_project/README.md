@@ -143,6 +143,15 @@ Most users might not get motivated by just notification so maybe there should be
 ## Dashboard
 
 
+<img width="1574" height="857" alt="Screenshot 2025-12-03 002906" src="https://github.com/user-attachments/assets/2a0e528b-c4a5-40c2-b90a-2141af55f8a9" />
+
+
+<img width="1062" height="590" alt="Screenshot 2025-12-03 002941" src="https://github.com/user-attachments/assets/745e6a40-42a5-419e-8788-8c7ce02335e8" />
+
+
+<img width="1064" height="595" alt="Screenshot 2025-12-03 003000" src="https://github.com/user-attachments/assets/05c0bd35-7322-4c91-a168-44fdc7d06c33" />
+
+
 <img width="1062" height="591" alt="Screenshot 2025-12-03 003012" src="https://github.com/user-attachments/assets/72659bcd-5941-4317-9037-3996bbab0ce0" />
 
 
