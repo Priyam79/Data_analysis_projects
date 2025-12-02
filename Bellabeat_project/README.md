@@ -139,3 +139,10 @@ More than 50% users are either active or fairly active on the smart users. Thus,
 **4. Reward system:**
 Most users might not get motivated by just notification so maybe there should be reward system to encourage them should they consistently reach their daily goal.
 
+
+## Dashboard
+
+
+<img width="1062" height="591" alt="Screenshot 2025-12-03 003012" src="https://github.com/user-attachments/assets/72659bcd-5941-4317-9037-3996bbab0ce0" />
+
+
