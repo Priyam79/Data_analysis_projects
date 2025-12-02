@@ -12,4 +12,4 @@ Created new columns such as ‘ride_length’, ‘day_of_week’, ‘age’, ‘
 Missing data mostly neglected .
 Also a age bin created . 
 ### ride_length
-'''ride_length_mins = ABS(DATEDIFF(Divvy_Trips_2015_Q1Q2[stoptime],Divvy_Trips_2015_Q1Q2[starttime],MINUTE))'''
+```ride_length_mins = ABS(DATEDIFF(Divvy_Trips_2015_Q1Q2[stoptime],Divvy_Trips_2015_Q1Q2[starttime],MINUTE))```
