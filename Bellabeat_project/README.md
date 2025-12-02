@@ -48,16 +48,27 @@ The aim of this case study is to analyze data from smart devices manufactured by
 ### Relation between sleep and minutes active:
 <img width="616" height="368" alt="image" src="https://github.com/user-attachments/assets/2db51d96-d6f1-4b10-b8da-da38884b84f8" />
 
+
 Fig- 1
+
+
 <img width="621" height="388" alt="image" src="https://github.com/user-attachments/assets/dba87287-e9be-453a-8113-3c0d5d2fda85" />
 
+
 Fig- 2
+
+
 <img width="620" height="389" alt="image" src="https://github.com/user-attachments/assets/f5066c59-ccc7-445c-8d9d-f8a411fb7182" />
 
+
 Fig- 3
+
+
 <img width="620" height="369" alt="image" src="https://github.com/user-attachments/assets/52a5d1d1-7fec-4357-bd3a-2f7afbb96cfe" />
 
+
 Fig- 4
+
 
 
 * Fig- 1, Fig- 2, Fig- 3 and Fig- 4 are relation between TotalMinutesAsleep vs  SedentaryMinutes, LightlyActiveMinutes, FairlyActiveMinutes and VeryActiveMinutes respectively.
