@@ -51,4 +51,32 @@ The above table is a summarized version of average ride_length which is the aver
 3. Subscriber has consistently less average ride length despite such high numbers is probably because they mostly use it for commuting. High number of Subscriber also rule out being influenced by outliers.
 4. Customer with less numbers of trips, significantly longer leisure trips might be the reason the average is high .
 
+### Average ride_length on Day 6(Saturday):
+Now one thing that is different from the general trend we have seen thus far is that on Day 6 avg ride length of Subscriber is much more compared to average ride length of Customer. On further investigating we learn that:
+#### Customer:
+Total numbers of trips on Day 6 : 87297
+Total numbers of trips for on Day 6 which are more than 10 hours : 5125 (around 6%)
+Total numbers of trips on Day 6 which are less than 10 hours : 82172 (around 94%)
+#### Subscriber:
+Total numbers of trips on Day 6 : 132897
+Total numbers of trips for on Day 6 which are more than 10 hours : 56446 (around 42%)
+Total numbers of trips on Day 6 which are less than 10 hours : 76451 (around 57%)
+#### Key Insights:
+1. Only 6% of Customer have rides longer than 10 hours compared to 42% of Subscriber, which suggest that outliers might be influencing Subscriber more than Customer.
+2. To exclude outliers, let us calculate average ride_length under 10 hours for both Customers and Subscriber. We find for Customers it is 00:28:07 and Subscriber 00:12:58. Even after excluding trips more than 10 hours we see that Customer average ride length more than subscriber which align with the general pattern.
+3. There may be system error for unusually long rides .
+
+### Number of Trips vs Gender:
+<img width="468" height="193" alt="image" src="https://github.com/user-attachments/assets/c49de233-742d-4ffb-9f33-6b6bc7ec8e6b" /> <img width="705" height="453" alt="image" src="https://github.com/user-attachments/assets/a5c20550-ec78-4378-a660-b6fdaaa1c551" />
+
+
+Key Insights:
+1. More than 75% users are male, female user accounting only around 23%.
+2. The Grand Total of Trip Id in this table will differ compared to other because of missing data. 
+
+
+
+
+
+
 
