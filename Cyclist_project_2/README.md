@@ -7,7 +7,7 @@ The aim of this case study is to analyze customer of a fictional company, Cyclis
 ## Data Source
 All the data used in this case study have been provided by Google Data Analytics course on Coursera itself through multiple .zip files. Thus, this is first party data. This files have been merged to create two large .csv files.  
 ## Cleaning and manipulating data
-Using Power Query changed all the wrong datatype in corrected format. Incase of ‘starttime’ and ‘stoptime’ first split the column using delimiters then merged it and used locale the change the data type in Datetime U.S. format.
+Using Power Query changed all the wrong datatype in corrected format. In case of ‘starttime’ and ‘stoptime’ first split the column using delimiters then merged it and used locale the change the data type in Datetime U.S. format.
 Created new columns such as ‘ride_length’, ‘day_of_week’, ‘age’, ‘timing_of_starttime’ .
 Missing data mostly neglected .
 Also a age bin created . 
